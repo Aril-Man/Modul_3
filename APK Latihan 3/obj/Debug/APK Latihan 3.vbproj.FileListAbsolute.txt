@@ -1,0 +1,66 @@
+E:\VB\APK Latihan 3\APK Latihan 3\bin\Debug\APK Latihan 3.exe.config
+E:\VB\APK Latihan 3\APK Latihan 3\bin\Debug\APK Latihan 3.exe
+E:\VB\APK Latihan 3\APK Latihan 3\bin\Debug\APK Latihan 3.pdb
+E:\VB\APK Latihan 3\APK Latihan 3\bin\Debug\APK Latihan 3.xml
+E:\VB\APK Latihan 3\APK Latihan 3\obj\Debug\APK Latihan 3.vbprojAssemblyReference.cache
+E:\VB\APK Latihan 3\APK Latihan 3\obj\Debug\APK_Latihan_3.Awal.resources
+E:\VB\APK Latihan 3\APK Latihan 3\obj\Debug\APK_Latihan_3.Form1.resources
+E:\VB\APK Latihan 3\APK Latihan 3\obj\Debug\APK_Latihan_3.Resources.resources
+E:\VB\APK Latihan 3\APK Latihan 3\obj\Debug\APK Latihan 3.vbproj.GenerateResource.cache
+E:\VB\APK Latihan 3\APK Latihan 3\obj\Debug\APK Latihan 3.vbproj.CoreCompileInputs.cache
+E:\VB\APK Latihan 3\APK Latihan 3\obj\Debug\APK Latihan 3.exe
+E:\VB\APK Latihan 3\APK Latihan 3\obj\Debug\APK Latihan 3.xml
+E:\VB\APK Latihan 3\APK Latihan 3\obj\Debug\APK Latihan 3.pdb
+E:\VB\APK Latihan 3\APK Latihan 3\obj\Debug\APK_Latihan_3.Program_2.resources
+E:\VB\APK Latihan 3\APK Latihan 3\obj\Debug\APK_Latihan_3.Program_3.resources
+E:\VB\APK Latihan 3\APK Latihan 3\obj\Debug\APK_Latihan_3.Program_4.resources
+E:\VB\APK Latihan 3\APK Latihan 3\obj\Debug\APK_Latihan_3.Program_5.resources
+E:\VB\APK Latihan 3\APK Latihan 3\obj\Debug\APK_Latihan_3.Program_6.resources
+E:\VB\APK Latihan 3\APK Latihan 3\obj\Debug\APK_Latihan_3.Program_7.resources
+E:\VB\APK Latihan 3\APK Latihan 3\obj\Debug\APK_Latihan_3.Program_8.resources
+E:\VB\APK Latihan 3\APK Latihan 3\obj\Debug\APK_Latihan_3.Program_9.resources
+E:\VB\APK Latihan 3\APK Latihan 3\obj\Debug\APK_Latihan_3.Program_10.resources
+F:\VB.Net\APK Latihan 3\bin\Debug\APK Latihan 3.exe.config
+F:\VB.Net\APK Latihan 3\bin\Debug\APK Latihan 3.exe
+F:\VB.Net\APK Latihan 3\bin\Debug\APK Latihan 3.pdb
+F:\VB.Net\APK Latihan 3\bin\Debug\APK Latihan 3.xml
+F:\VB.Net\APK Latihan 3\obj\Debug\APK Latihan 3.vbprojAssemblyReference.cache
+F:\VB.Net\APK Latihan 3\obj\Debug\APK_Latihan_3.Awal.resources
+F:\VB.Net\APK Latihan 3\obj\Debug\APK_Latihan_3.Form1.resources
+F:\VB.Net\APK Latihan 3\obj\Debug\APK_Latihan_3.Resources.resources
+F:\VB.Net\APK Latihan 3\obj\Debug\APK_Latihan_3.Program_10.resources
+F:\VB.Net\APK Latihan 3\obj\Debug\APK_Latihan_3.Program_2.resources
+F:\VB.Net\APK Latihan 3\obj\Debug\APK_Latihan_3.Program_3.resources
+F:\VB.Net\APK Latihan 3\obj\Debug\APK_Latihan_3.Program_4.resources
+F:\VB.Net\APK Latihan 3\obj\Debug\APK_Latihan_3.Program_5.resources
+F:\VB.Net\APK Latihan 3\obj\Debug\APK_Latihan_3.Program_6.resources
+F:\VB.Net\APK Latihan 3\obj\Debug\APK_Latihan_3.Program_7.resources
+F:\VB.Net\APK Latihan 3\obj\Debug\APK_Latihan_3.Program_8.resources
+F:\VB.Net\APK Latihan 3\obj\Debug\APK_Latihan_3.Program_9.resources
+F:\VB.Net\APK Latihan 3\obj\Debug\APK Latihan 3.vbproj.GenerateResource.cache
+F:\VB.Net\APK Latihan 3\obj\Debug\APK Latihan 3.vbproj.CoreCompileInputs.cache
+F:\VB.Net\APK Latihan 3\obj\Debug\APK Latihan 3.exe
+F:\VB.Net\APK Latihan 3\obj\Debug\APK Latihan 3.xml
+F:\VB.Net\APK Latihan 3\obj\Debug\APK Latihan 3.pdb
+E:\VB.Net\APK Latihan 3\bin\Debug\APK Latihan 3.exe.config
+E:\VB.Net\APK Latihan 3\bin\Debug\APK Latihan 3.exe
+E:\VB.Net\APK Latihan 3\bin\Debug\APK Latihan 3.pdb
+E:\VB.Net\APK Latihan 3\bin\Debug\APK Latihan 3.xml
+E:\VB.Net\APK Latihan 3\obj\Debug\APK Latihan 3.vbprojAssemblyReference.cache
+E:\VB.Net\APK Latihan 3\obj\Debug\APK_Latihan_3.Awal.resources
+E:\VB.Net\APK Latihan 3\obj\Debug\APK_Latihan_3.Form1.resources
+E:\VB.Net\APK Latihan 3\obj\Debug\APK_Latihan_3.Resources.resources
+E:\VB.Net\APK Latihan 3\obj\Debug\APK_Latihan_3.Program_10.resources
+E:\VB.Net\APK Latihan 3\obj\Debug\APK_Latihan_3.Program_2.resources
+E:\VB.Net\APK Latihan 3\obj\Debug\APK_Latihan_3.Program_3.resources
+E:\VB.Net\APK Latihan 3\obj\Debug\APK_Latihan_3.Program_4.resources
+E:\VB.Net\APK Latihan 3\obj\Debug\APK_Latihan_3.Program_5.resources
+E:\VB.Net\APK Latihan 3\obj\Debug\APK_Latihan_3.Program_6.resources
+E:\VB.Net\APK Latihan 3\obj\Debug\APK_Latihan_3.Program_7.resources
+E:\VB.Net\APK Latihan 3\obj\Debug\APK_Latihan_3.Program_8.resources
+E:\VB.Net\APK Latihan 3\obj\Debug\APK_Latihan_3.Program_9.resources
+E:\VB.Net\APK Latihan 3\obj\Debug\APK Latihan 3.vbproj.GenerateResource.cache
+E:\VB.Net\APK Latihan 3\obj\Debug\APK Latihan 3.vbproj.CoreCompileInputs.cache
+E:\VB.Net\APK Latihan 3\obj\Debug\APK Latihan 3.exe
+E:\VB.Net\APK Latihan 3\obj\Debug\APK Latihan 3.xml
+E:\VB.Net\APK Latihan 3\obj\Debug\APK Latihan 3.pdb
